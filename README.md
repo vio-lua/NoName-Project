@@ -1,6 +1,6 @@
 # NN-Project (NoName Visuals)
 
-A client-side cosmetic and visual enhancement framework for Roblox (`Build 2.3.1`). The script runs entirely on the client (`Client-Side`) without firing any `RemoteEvent`s and is designed to customize graphics, camera behavior, HUD, and character effects.
+A client-side cosmetic and visual enhancement framework for Roblox (`Build 1.0`). The script runs entirely on the client (`Client-Side`) without firing any `RemoteEvent`s and is designed to customize graphics, camera behavior, HUD, and character effects.
 
 ## Features
 
@@ -16,7 +16,7 @@ A client-side cosmetic and visual enhancement framework for Roblox (`Build 2.3.1
 
 # NN-Project (NoName Visuals)
 
-Клиентский визуально-косметический фреймворк для Roblox (`Build 2.3.1`). Скрипт работает исключительно на стороне клиента (`Client-Side`), не использует `RemoteEvent` и предназначен для кастомизации графики, камеры, интерфейса и эффектов персонажа.
+Клиентский визуально-косметический фреймворк для Roblox (`Build 1.0`). Скрипт работает исключительно на стороне клиента (`Client-Side`), не использует `RemoteEvent` и предназначен для кастомизации графики, камеры, интерфейса и эффектов персонажа.
 
 ## Основные возможности
 
