@@ -11,13 +11,6 @@ A client-side cosmetic and visual enhancement framework for Roblox (`Build 2.3.1
 - **Camera & Screen:** Custom FOV, stretched resolution (`Stretched Res`), smooth spring camera lag, visible body in first-person (`FPerson`), Minecraft-style crosshair, and color grading.
 - **System & Protection:** Built-in `Anti-Fling`, 7 UI color themes, dual-language support (`EN` / `RU`), JSON config manager, mobile screen scaling, and clean memory unloading.
 
-## Usage
-
-Run the script via your executor using `loadstring`:
-
-```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/nn-project-v2_3_1_client.lua](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/nn-project-v2_3_1_client.lua)"))()
-
 
 ДЛЯ РУССКИХ:
 
@@ -42,3 +35,15 @@ loadstring(game:HttpGet("[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_R
 ## Дисклеймер
 
 Проект создан исключительно в визуальных и образовательных целях. Скрипт не содержит функций получения игрового преимущества (Aimbot, ESP сквозь стены, Fly и т.д.). Использование сторонних клиентских скриптов в Roblox осуществляется на ваш страх и риск.
+
+
+
+
+## Usage
+
+Run the script via your executor using `loadstring`:
+
+```lua
+loadstring(game:HttpGet("[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/nn-project-v2_3_1_client.lua](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/nn-project-v2_3_1_client.lua)"))()
+
+
