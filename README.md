@@ -50,7 +50,8 @@ This project is intended solely for visual enhancement and educational purposes.
 Run the script via your executor using `loadstring`:
 
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/vio-lua/NoName-Project/main/nn-project-v1_0_client.lua](https://raw.githubusercontent.com/vio-lua/NoName-Project/main/nn-project-v1_0_client.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vio-lua/NoName-Project/main/nn-project-v1_0_client.lua"))()
+
 
 
 
