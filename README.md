@@ -44,7 +44,7 @@ A client-side cosmetic and visual enhancement framework for Roblox (`Build 1.0`)
 Run the script via your executor using `loadstring`:
 
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/vio-lua/NoName-Project/main/nn-project-v1_0_client.lua](https://raw.githubusercontent.com/vio-dev/NoName-Project/main/nn-project-v1_0_client.lua)"))()
+loadstring(game:HttpGet("[https://raw.githubusercontent.com/vio-lua/NoName-Project/main/nn-project-v1_0_client.lua](https://raw.githubusercontent.com/vio-lua/NoName-Project/main/nn-project-v1_0_client.lua)"))()
 
 
 
