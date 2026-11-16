@@ -12,6 +12,12 @@ A client-side cosmetic and visual enhancement framework for Roblox (`Build 1.0`)
 - **System & Protection:** Built-in `Anti-Fling`, 7 UI color themes, dual-language support (`EN` / `RU`), JSON config manager, mobile screen scaling, and clean memory unloading.
 
 
+## Controls
+- **Toggle Menu:** Click the NN-Hub watermark at the top of the screen or press RightShift / Insert.
+- **Module Settings:** Right-click on any feature pill or tap the ••• icon on the right.
+## Disclaimer
+This project is intended solely for visual enhancement and educational purposes. It contains no unfair gameplay advantages (no Aimbot, wallhack ESP, Fly, etc.). Use third-party client scripts in Roblox at your own risk.
+
 ДЛЯ РУССКИХ:
 
 # NN-Project (NoName Visuals)
