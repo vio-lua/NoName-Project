@@ -1,3 +1,4 @@
+[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Universal-Script-RELEASE-NoName-Project-or-Visuals-237173)](https://scriptblox.com/script/Universal-Script-RELEASE-NoName-Project-or-Visuals-237173)
 # NN-Project (NoName Visuals)
 
 A client-side open-source cosmetic and visual enhancement framework for Roblox (`Build 1.0`). The script runs entirely on the client (`Client-Side`) without firing any `RemoteEvent`s and is designed to customize graphics, camera behavior, HUD, and character effects.
