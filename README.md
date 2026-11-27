@@ -1,7 +1,7 @@
 [![Reviewed on ScriptBlox](https://scriptblox.com/badge/Universal-Script-RELEASE-NoName-Project-or-Visuals-237173)](https://scriptblox.com/script/Universal-Script-RELEASE-NoName-Project-or-Visuals-237173)
 # NN-Project (NoName Visuals)
 
-A client-side open-source cosmetic and visual enhancement framework for Roblox (`Build 1.0`). The script runs entirely on the client (`Client-Side`) without firing any `RemoteEvent`s and is designed to customize graphics, camera behavior, HUD, and character effects.
+A client-side open-source cosmetic and visual enhancement framework for Roblox. The script runs entirely on the client (`Client-Side`) without firing any `RemoteEvent`s and is designed to customize graphics, camera behavior, HUD, and character effects.
 
 ## Features
 
@@ -19,11 +19,11 @@ A client-side open-source cosmetic and visual enhancement framework for Roblox (
 ## Disclaimer
 This project is intended solely for visual enhancement and educational purposes. It contains no unfair gameplay advantages (no Aimbot, wallhack ESP, Fly, etc.). Use third-party client scripts in Roblox at your own risk.
 
-ДЛЯ РУССКИХ:
+  `ДЛЯ РУССКИХ:`
 
 # NN-Project (NoName Visuals)
 
-Клиентский визуально-косметический опенсурс фреймворк для Roblox (`Build 1.0`). Скрипт работает исключительно на стороне клиента (`Client-Side`), не использует `RemoteEvent` и предназначен для кастомизации графики, камеры, интерфейса и эффектов персонажа.
+Клиентский визуально-косметический опенсурс фреймворк для Roblox. Скрипт работает исключительно на стороне клиента (`Client-Side`), не использует `RemoteEvent` и предназначен для кастомизации графики, камеры, интерфейса и эффектов персонажа.
 
 ## Основные возможности
 
